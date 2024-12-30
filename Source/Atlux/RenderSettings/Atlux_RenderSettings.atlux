@@ -1,0 +1,73 @@
+{
+	"RenderSettings":
+	{
+		"aTLX_S_Frames": 500,
+		"aTLX_S_FrameRate": 30,
+		"aTLX_FO_OutputPath":
+		{
+			"path": "I:/3D Design/RTFKT/Inventory/Mesh/Body/Preview"
+		},
+		"aTLX_FO_RenderTitle": "",
+		"aTLX_FO_Naming":
+		{
+			"bRenderTitle": true,
+			"bDate": true,
+			"bTime": true,
+			"bRenderPass": true,
+			"bFrameNumber": true,
+			"bBatchModel": true
+		},
+		"aTLX_FO_Resolution": "R1080p",
+		"aTLX_FO_CustomResolution":
+		{
+			"width": 1920,
+			"height": 1080,
+			"lockRatio": true,
+			"ratio": 1.7777777910232544
+		},
+		"aTLX_R_Quality": "Ultra",
+		"aTLX_R_CustomQuality":
+		{
+			"spatialSamples": 16,
+			"temporalSamples": 32,
+			"samplesPerPixel": 1,
+			"globalIlluminationBounces": 2,
+			"reflectionBounces": 3
+		},
+		"aTLX_R_BaseRenderer": false,
+		"aTLX_R_PathTracer": true,
+		"aTLX_FF_FormatPNG": true,
+		"aTLX_FF_FormatJPG": false,
+		"aTLX_FF_FormatEXR": false,
+		"aTLX_FF_FormatMOV": false,
+		"aTLX_OO_Denoiser": false,
+		"aTLX_OO_MotionBlur": true,
+		"aTLX_OO_WarmUpCount":
+		{
+			"warmUpEngine": 0,
+			"warmUpRender": 0
+		},
+		"aTLX_OO_System":
+		{
+			"exportLog": false,
+			"openFolder": false,
+			"fixBlackLine": true
+		},
+		"aTLX_RP_TransparentBackground": false,
+		"aTLX_RP_Cryptomatte": "None",
+		"aTLX_RP_ShadowPass": false,
+		"aTLX_RP_AOVs":
+		{
+			"rP_BaseColor": false,
+			"rP_Metallic": false,
+			"rP_Specular": false,
+			"rP_Roughness": false,
+			"rP_ZDepth": false,
+			"rP_WorldNormal": false,
+			"rP_AmbientOcclusion": false
+		},
+		"aTLX_C_CustomRenderSettings": "None",
+		"aTLX_C_CustomLevelSequence": "None",
+		"aTLX_SettingsVersion": 1
+	}
+}

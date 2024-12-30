@@ -1,0 +1,422 @@
+{
+	"cycloramas": [
+		{
+			"vTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1.0000000000000004
+				},
+				"translation":
+				{
+					"x": 50.000000000000071,
+					"y": 7.1054273576010019e-15,
+					"z": 0
+				},
+				"scale3D":
+				{
+					"x": 2,
+					"y": 2,
+					"z": 2
+				}
+			},
+			"vCycloramaType": "Cyclorama",
+			"vEnclosure": false,
+			"vWidth": 800,
+			"vColorC":
+			{
+				"r": 0.28314900398254395,
+				"g": 0.40724000334739685,
+				"b": 0.90466099977493286,
+				"a": 1
+			},
+			"vMainMaterial": "None",
+			"vColorS":
+			{
+				"r": 0.05000000074505806,
+				"g": 0.05000000074505806,
+				"b": 0.05000000074505806,
+				"a": 1
+			},
+			"vSecondaryMaterial": "None",
+			"vLockColorS": true,
+			"vUnlit": false,
+			"vReflection": 0,
+			"vRoughness": 0.5,
+			"vFog": false,
+			"vFogDensity": 0.20000000298023224
+		}
+	],
+	"lights": [
+		{
+			"vTransform":
+			{
+				"rotation":
+				{
+					"x": 0.034091429274549986,
+					"y": -0.091389770188556707,
+					"z": 0.34784081556540225,
+					"w": 0.9324657909980919
+				},
+				"translation":
+				{
+					"x": -232.98058996981925,
+					"y": -201.91651130719347,
+					"z": 93.981274055539174
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"vLightType": "Softbox_70x70_Octagon",
+			"vLightIntensity": 125,
+			"vLightUnits": "Candelas",
+			"vLightTemperature": 4500,
+			"vLightTemperatureBool": true,
+			"vLightTint":
+			{
+				"r": 1,
+				"g": 1,
+				"b": 1,
+				"a": 1
+			},
+			"vLightDifuserBool": true,
+			"vLightGridBool": false,
+			"vLightSupport": "Automatic",
+			"vLightScissorsSegments": 8,
+			"vActorToTrack": "/MetaShoot/Assets/Actor/MetaShoot_Target.MetaShoot_Target_C'/Game/Templates/Lighting_Characters/Maps/Studio.Studio:PersistentLevel.MetaShoot_Target_C_0'",
+			"vTargetName": "MetaShoot_Target_C_0",
+			"vTargetId": 1,
+			"vLightRotation": 0,
+			"vHideMesh": true
+		},
+		{
+			"vTransform":
+			{
+				"rotation":
+				{
+					"x": 0.087103460649766026,
+					"y": -0.048521513478325007,
+					"z": 0.86924696980941629,
+					"w": 0.48421932566736225
+				},
+				"translation":
+				{
+					"x": 143.00000000001748,
+					"y": -231.00000000002612,
+					"z": 100
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"vLightType": "Softbox_70x70_Octagon",
+			"vLightIntensity": 150,
+			"vLightUnits": "Candelas",
+			"vLightTemperature": 4500,
+			"vLightTemperatureBool": true,
+			"vLightTint":
+			{
+				"r": 1,
+				"g": 1,
+				"b": 1,
+				"a": 1
+			},
+			"vLightDifuserBool": true,
+			"vLightGridBool": false,
+			"vLightSupport": "Automatic",
+			"vLightScissorsSegments": 8,
+			"vActorToTrack": "/MetaShoot/Assets/Actor/MetaShoot_Target.MetaShoot_Target_C'/Game/Templates/Lighting_Characters/Maps/Studio.Studio:PersistentLevel.MetaShoot_Target_C_0'",
+			"vTargetName": "MetaShoot_Target_C_0",
+			"vTargetId": 1,
+			"vLightRotation": 0,
+			"vHideMesh": true
+		},
+		{
+			"vTransform":
+			{
+				"rotation":
+				{
+					"x": -0.010595980060182308,
+					"y": -0.019192895034842464,
+					"z": -0.48319881040804658,
+					"w": 0.87523612105933724
+				},
+				"translation":
+				{
+					"x": -170.00000000004965,
+					"y": 270.00000000009135,
+					"z": 141
+				},
+				"scale3D":
+				{
+					"x": 1.5,
+					"y": 1.5,
+					"z": 1.5
+				}
+			},
+			"vLightType": "Softbox_70x70_Octagon",
+			"vLightIntensity": 150,
+			"vLightUnits": "Candelas",
+			"vLightTemperature": 6500,
+			"vLightTemperatureBool": true,
+			"vLightTint":
+			{
+				"r": 1,
+				"g": 1,
+				"b": 1,
+				"a": 1
+			},
+			"vLightDifuserBool": true,
+			"vLightGridBool": false,
+			"vLightSupport": "Automatic",
+			"vLightScissorsSegments": 8,
+			"vActorToTrack": "/MetaShoot/Assets/Actor/MetaShoot_Target.MetaShoot_Target_C'/Game/Templates/Lighting_Characters/Maps/Studio.Studio:PersistentLevel.MetaShoot_Target_C_0'",
+			"vTargetName": "MetaShoot_Target_C_0",
+			"vTargetId": 1,
+			"vLightRotation": 0,
+			"vHideMesh": true
+		}
+	],
+	"targets": [
+		{
+			"vTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1.0000000000000004
+				},
+				"translation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 155
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"vTint":
+			{
+				"r": 1,
+				"g": 1,
+				"b": 1,
+				"a": 1
+			},
+			"vTargetName": "MetaShoot_Target_C_0",
+			"vTargetId": 1
+		}
+	],
+	"lightBanks": [
+		{
+			"vTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": -0.70710678118654768,
+					"w": 0.70710678118654779
+				},
+				"translation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 386
+				},
+				"scale3D":
+				{
+					"x": 1.5,
+					"y": 1.5,
+					"z": 1.5
+				}
+			},
+			"vLightIntensity": 100,
+			"vLightTemperature": 8500,
+			"vLightTemperatureBool": true,
+			"vLightTint":
+			{
+				"r": 1,
+				"g": 1,
+				"b": 1,
+				"a": 1
+			},
+			"vActorToTrack": "None",
+			"vTargetName": "",
+			"vTargetId": 0,
+			"vHideMesh": true
+		},
+		{
+			"vTransform":
+			{
+				"rotation":
+				{
+					"x": 0.27059804277556448,
+					"y": -0.27059804277556415,
+					"z": -0.65328148546092579,
+					"w": 0.65328148546092635
+				},
+				"translation":
+				{
+					"x": 350.00000000000068,
+					"y": 0,
+					"z": 327
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"vLightIntensity": 100,
+			"vLightTemperature": 6500,
+			"vLightTemperatureBool": true,
+			"vLightTint":
+			{
+				"r": 1,
+				"g": 1,
+				"b": 1,
+				"a": 1
+			},
+			"vActorToTrack": "None",
+			"vTargetName": "",
+			"vTargetId": 0,
+			"vHideMesh": true
+		}
+	],
+	"dSLRs": [
+		{
+			"vTransform":
+			{
+				"rotation":
+				{
+					"x": -3.4694469519536142e-18,
+					"y": 0.024263222847736934,
+					"z": 1.6653345369377348e-16,
+					"w": 0.99970560467421721
+				},
+				"translation":
+				{
+					"x": -741.20825600011972,
+					"y": -5.6843418860808015e-13,
+					"z": 191
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"vCameraMeshHidden": true,
+			"vCameraMeshScale": 2.5,
+			"vActorToTrack": "/MetaShoot/Assets/Actor/MetaShoot_Target.MetaShoot_Target_C'/Game/Templates/Lighting_Characters/Maps/Studio.Studio:PersistentLevel.MetaShoot_Target_C_0'",
+			"vTargetName": "MetaShoot_Target_C_0",
+			"vTargetId": 1
+		}
+	],
+	"turntables": [
+		{
+			"vTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1.0000000000000004
+				},
+				"translation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"vRotate": true,
+			"vDegrees": 360,
+			"vRotationTime": 5,
+			"vDelay": 0,
+			"vLoop": true,
+			"vClockwise": true,
+			"vActor": "None",
+			"vMesh": "None",
+			"vMaterial": "None",
+			"vTransformChild":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1
+				},
+				"translation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3D":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				}
+			},
+			"vBaseScale": 1,
+			"vHideBase": true,
+			"vPreviewZ": true
+		}
+	],
+	"rails": [
+		{
+			"vTransform":
+			{
+				"rotation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0,
+					"w": 1.0000000000000004
+				},
+				"translation":
+				{
+					"x": 0,
+					"y": 0,
+					"z": 350
+				},
+				"scale3D":
+				{
+					"x": 1.25,
+					"y": 1.25,
+					"z": 1.25
+				}
+			},
+			"vSeparation": 375,
+			"vLength": 1500
+		}
+	]
+}

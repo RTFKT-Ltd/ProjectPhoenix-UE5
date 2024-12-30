@@ -1,0 +1,57 @@
+{
+	"AtluxSettings":
+	{
+		"aTLX_SwitcherActiveWidget": 1,
+		"aTLX_BatchEnabled": false
+	},
+	"RigRailPresetSettings":
+	{
+		"length": 400,
+		"startingPoint": 0.5,
+		"keepVertical": false,
+		"invert": false,
+		"addNewCamera": false,
+		"distance": 350
+	},
+	"PrepareLevelSequenceSettings":
+	{
+		"newSequence": true,
+		"totalFrames": 500,
+		"frameRate": 30,
+		"newSequenceName": "",
+		"saveInCurrentFolder": false,
+		"levelSequence": "None",
+		"allRails": true,
+		"railInterpolation": "Auto"
+	},
+	"LightingSettings":
+	{
+		"vRayTracingLumen": false,
+		"applyToSelection": false
+	},
+	"BatchSettings":
+	{
+		"customBatchEvent": "None",
+		"stager": [],
+		"options":
+		{
+			"bAddLoaded": false,
+			"bSnapFloor": false,
+			"bAutoFrameCamera": false,
+			"vFrameRatio": 1.2999999523162842
+		},
+		"update":
+		{
+			"cB_Update_All": true,
+			"cB_Update_Lights": true,
+			"cB_Update_Backdrop": true,
+			"cB_Update_Camera": true,
+			"cB_Update_RigRail": true,
+			"cB_Update_Target": true,
+			"cB_Update_Rail": true,
+			"cB_Update_Platform": true,
+			"cB_Update_Sample": true,
+			"cB_Update_Floor": true
+		}
+	}
+}
