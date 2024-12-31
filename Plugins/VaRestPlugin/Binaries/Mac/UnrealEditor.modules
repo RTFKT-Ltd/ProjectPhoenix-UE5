@@ -1,0 +1,8 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"VaRest": "UnrealEditor-VaRest.dylib",
+		"VaRestEditor": "UnrealEditor-VaRestEditor.dylib"
+	}
+}

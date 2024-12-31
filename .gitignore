@@ -1,9 +1,9 @@
-Binaries
-DerivedDataCache
-Intermediate
-Platforms
-Saved
-Renders
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Platforms
+/Saved
+/Renders
 MyCloneAssembly.json
 .vscode
 .vs
@@ -15,4 +15,3 @@ MyCloneAssembly.json
 *.suo
 *.xcodeproj
 *.xcworkspace
-
